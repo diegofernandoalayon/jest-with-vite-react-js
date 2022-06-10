@@ -2,8 +2,8 @@
   "jsc": {
     "target": "es2017",
     "parser": {
-      "syntax": "typescript",
-      "tsx": true,
+      "syntax": "ecmascript",
+      "jsx": true,
       "decorators": false,
       "dynamicImport": false
     },
